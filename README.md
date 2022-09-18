@@ -1,1 +1,1 @@
-# HomeWork-Assignment1
+# My Console at first ask a user to input an array size that way they can how many number they want. After that will run a loop to check and add a number into array. And final i will have a loop to output an array 
